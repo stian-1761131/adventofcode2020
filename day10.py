@@ -29,7 +29,7 @@ for i in range(len(d10input)-1) :
         jolt3 += 1
 """
 
-"""Part 2 using DP for the first time :o"""
+"""Part 2 using Dynamic Programming for the first time :o"""
 #create a dictionary to store the values for each i so that we don't have to re-compute them every time
 nums_dict = {}
 #write a recursive function to get the amount of paths up to i
